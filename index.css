@@ -1,0 +1,17 @@
+#title {
+    text-align: center;
+    color: #000066;
+}
+
+#egg {
+    width: 600px;
+    height: 400px;
+}
+
+body {
+    background-image: url("bg.jpg");
+}
+
+.instructions {
+    color: red;
+}
